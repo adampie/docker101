@@ -1,8 +1,16 @@
 Docker 101
 Introduction to Docker
 
-Adam Pietrzycki
-https://github.com/adampie/docker101
-@adampietrzycki
-
 * What is Docker?
+
+* What problem is Docker trying to solve?
+
+* VMs Vs Containers
+** Virtual Machines
+** Containers
+
+* Demo - hello_world
+
+* Kitematic - A GUI for Docker
+
+* Demo - tetris
