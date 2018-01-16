@@ -3,11 +3,13 @@ Introduction to Docker
 
 * What is Docker?
 
-* What problem is Docker trying to solve?
+* What problem is it trying to solve?
 
-* Virtual Machines?
+* How is it different from a Virtual Machine?
 
-* Containers?
+* Docker Images?
+
+* Docker Containers?
 
 * Demo - hello_world
 
