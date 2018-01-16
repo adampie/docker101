@@ -7,6 +7,6 @@ Introduction to Docker
 [Golang present docs](https://godoc.org/golang.org/x/tools/present)
 
 ## Demos
-### hello_world 
+### [hello_world](/hello_world)
 
-### tetris
+### [tetris](/tetris)
