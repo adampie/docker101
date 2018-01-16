@@ -6,7 +6,9 @@ Introduction to Docker
 * What problem is Docker trying to solve?
 
 * VMs Vs Containers
+
 ** Virtual Machines
+
 ** Containers
 
 * Demo - hello_world
