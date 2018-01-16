@@ -5,14 +5,12 @@ Introduction to Docker
 
 * What problem is Docker trying to solve?
 
-* VMs Vs Containers
+* Virtual Machines?
 
-** Virtual Machines
-
-** Containers
+* Containers?
 
 * Demo - hello_world
 
-* Kitematic - A GUI for Docker
+* Kitematic - A GUI for Docker?
 
 * Demo - tetris
